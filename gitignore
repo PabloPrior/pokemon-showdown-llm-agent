@@ -1,0 +1,26 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Variables de entorno (contienen API keys)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Pokémon Showdown (se clona aparte, ver README)
+pokemon-showdown/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notas internas
+mejoras_sugerencias.txt

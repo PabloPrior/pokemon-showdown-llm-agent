@@ -61,7 +61,7 @@ Two models are compared — **gpt-4o-mini** (OpenAI) and **Llama-3.3-70B** (Meta
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pokemon-battle-llm-agent.git
+git clone https://github.com/PabloPrior/pokemon-showdown-llm-agent.git
 cd pokemon-battle-llm-agent
 ```
 
